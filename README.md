@@ -24,8 +24,18 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yunji378mm)](https://solved.ac/yunji378mm)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=can378&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=can378&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight)
+<p align="center">
+  <a href="https://solved.ac/yunji378mm">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=yunji378mm" alt="solved.ac tier" />
+  </a>
+</p>
 
-⚡ Fun fact: I love snacks like 쿠크다스
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=can378&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=can378&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+</p>
+
+<p align="center">
+  ⚡ <strong>Fun fact:</strong> I love snacks like <i>쿠크다스</i> 🍪
+</p>
+
