@@ -11,10 +11,17 @@
 <br />
 
 <p align="center">
-  🧑‍💻 <a href="https://yun000.tistory.com/" target="_blank">개발 블로그</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  📄 <a href="https://github.com/can378" target="_blank">포트폴리오</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  ✉️ <a href="mailto:yunji378mm@naver.com">Email</a>
+  <a href="https://yun000.tistory.com/">
+    <img src="https://img.shields.io/badge/Dev_Blog-FF5722?style=flat-square&logo=tistory&logoColor=white" alt="Dev Blog"/>
+  </a>
+  <a href="https://github.com/can378">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:yunji378mm@naver.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=maildotru&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yunji378mm)](https://solved.ac/yunji378mm)
