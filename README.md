@@ -1,17 +1,29 @@
-## Hi there 👋
+# Hello, I'm Yunji!
 
-<!--
-**can378/can378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 끊임없이 배우고 도전하는 백엔드 개발자입니다.  
+문제 해결과 성능 개선, 그리고 좋은 사용자 경험에 관심이 많습니다.
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: I love snacks like 쿠크다스
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yunji378mm)](https://solved.ac/yunji378mm)
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=can378&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=can378&layout=compact&theme=tokyonight)
+
+---
+
+## 📝 Blog & Portfolio
+
+- 🧑‍💻 [개발 블로그](https://yun000.tistory.com/)
+- 📄 [포트폴리오 보기](https://github.com/can378)
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: yunji378mm@naver.com
+- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-name)
