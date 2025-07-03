@@ -14,14 +14,14 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=can378&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=can378&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight)
 
-<hr style="height:1px; border:none; background-color:#ddd;" />
+
 
 ## 📝 Blog & Portfolio
 
 - 🧑‍💻 [개발 블로그](https://yun000.tistory.com/)
-- 📄 [포트폴리오 보기](https://github.com/can378)
+- 📄 [포트폴리오](https://github.com/can378)
 
-<hr style="height:1px; border:none; background-color:#ddd;" />
+
 
 ## 📫 Contact
 
