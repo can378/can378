@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  안녕하세요! <br />
-  <strong>끊임없이 배우고 도전하는 백엔드 개발자</strong>입니다. <br />
-  문제 해결과 성능 개선, 그리고 좋은 사용자 경험에 관심이 많습니다.
+  Hello! <br />
+  I'm a <strong>backend developer who constantly learns and embraces challenges</strong>. <br />
+  I'm passionate about problem solving, performance optimization, and creating great user experiences.
 </p>
 
 <br />
