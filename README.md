@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+YunG!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Yun G!" alt="Typing SVG" />
 </p>
+
 
 
 안녕하세요! 끊임없이 배우고 도전하는 백엔드 개발자입니다.  
